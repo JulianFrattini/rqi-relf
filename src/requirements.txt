@@ -1,0 +1,5 @@
+pandas==1.4.4
+openpyxl==3.0.10
+seaborn==0.12.0
+rich==12.5.1
+sklearn==0.0
