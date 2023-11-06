@@ -3,10 +3,10 @@
         "name": "ID"
     }, {
         "name": "Quality Factor 1",
-        "codes": ["orientation", "semantically redundant", "lexically redundant", "horizontal traces", "vertical trace to input", "vertical trace to output", "quantified", "missing requirement", "missing information", "level of detail", "end-to-end view", "up-to-date", "coherent", "consistent", "jargonic", "overloaded term", "feasible", "atomic", "concise", "scope", "density", "size", "maturity", "committed", "type"]
+        "codes": ["orientation", "semantically redundant", "lexically redundant", "horizontal traces", "vertical trace to input", "vertical trace to output", "quantified", "missing requirement", "missing information", "level of detail", "end-to-end view", "up-to-date", "coherent", "consistent", "jargonic", "overloaded term", "feasible", "atomic", "concise", "scope", "density", "maturity", "committed", "type"]
     }, {
         "name": "Quality Factor 2",
-        "codes": ["orientation", "semantically redundant", "lexically redundant", "horizontal traces", "vertical trace to input", "vertical trace to output", "quantified", "missing requirement", "missing information", "level of detail", "end-to-end view", "up-to-date", "coherent", "consistent", "jargonic", "overloaded term", "feasible", "atomic", "concise", "scope", "density", "size", "maturity", "committed", "type"]
+        "codes": ["orientation", "semantically redundant", "lexically redundant", "horizontal traces", "vertical trace to input", "vertical trace to output", "quantified", "missing requirement", "missing information", "level of detail", "end-to-end view", "up-to-date", "coherent", "consistent", "jargonic", "overloaded term", "feasible", "atomic", "concise", "scope", "density", "maturity", "committed", "type"]
     }, {
         "name": "Entity-Fact 1",
         "codes": ["problem", "solution", "true", "false", "missing", "existing", "too little", "sufficient", "too much", "too small", "too large", "too low", "too high", "immature", "mature", "functional", "non-functional", "mixed"]
@@ -15,13 +15,13 @@
         "codes": ["problem", "solution", "true", "false", "missing", "existing", "too little", "sufficient", "too much", "too small", "too large", "too low", "too high", "immature", "mature", "functional", "non-functional", "mixed"]
     },  {
         "name": "Context Factor 1",
-        "codes": ["Novelty", "Agile", "Involvement", "Supplementary Communication", "Dependency Management Tool", "Peer Review", "Personal Style", "Experience", "Domain Knowledge"]
+        "codes": ["Novelty", "Agile", "Involvement", "Supplementary Communication", "Peer Review", "Experience", "Domain Knowledge"]
     },  {
         "name": "Context Factor 2",
-        "codes": ["Novelty", "Agile", "Involvement", "Supplementary Communication", "Dependency Management Tool", "Peer Review", "Personal Style", "Experience", "Domain Knowledge"]
+        "codes": ["Novelty", "Agile", "Involvement", "Supplementary Communication", "Peer Review", "Experience", "Domain Knowledge"]
     },  {
         "name": "Context Factor 3",
-        "codes": ["Novelty", "Agile", "Involvement", "Supplementary Communication", "Dependency Management Tool", "Peer Review", "Personal Style", "Experience", "Domain Knowledge"]
+        "codes": ["Novelty", "Agile", "Involvement", "Supplementary Communication", "Peer Review", "Experience", "Domain Knowledge"]
     },  {
         "name": "Activity 1",
         "codes": ["Processing", "Understanding", "Interpreting", "Translating", "Implementing", "Verifying", "Assessing", "Assessing Feasibility", "Estimating Effort", "Planning", "Coordinating", "Reusing"]
