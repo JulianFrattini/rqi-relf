@@ -19,6 +19,12 @@ This repository contains the following artifacts:
 * *doc/* : folder containing all additional documentation and supplementary material
   * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guideline for coding the interview transcripts
 * *figures/* : folder for all figures
+  * *graphml/* : figures in editable `.graphml` format
+    * *activity-model.graphml* : tree of activities and attributes
+    * *interaction-example.graphml* : mapping a statement describing an interaction effect to the requirements quality theory
+    * *method-visualization.graphml* : visual overview of the data collection and analysis method
+    * *requirements-quality-theory.graphml* : simplified version of the requirements quality theory \[1\]
+  * *pdf/* : the same figures but in viewable `.pdf` format
 * *src/* : folder containing all source code
   * *analytics/* : folder for all source code related to analysis
     * [evaluation.ipynb](./src/analytics/evaluation.ipynb) : notebook to filter and aggregate the data to themes
@@ -34,7 +40,7 @@ The following requirements must be met in order to utilize the artifacts contain
 
 * To utilize **the data**, you need a spreadsheet software like Microsoft Excel to open the .xlsx file.
 * To exectute **the code**, [Python 3.10](https://www.python.org/downloads/release/python-3100/) must be available and an editor software like [Visual Studio Code](https://code.visualstudio.com/download) is recommended.
-* To edit **the figures**, you require an editor capable of opening Graph Markup Language (.graphml) files, for example the [yEd Graph Editor](https://www.yworks.com/products/yed).
+* To edit **the figures**, you require an editor capable of opening Graph Markup Language (`.graphml`) files, for example the [yEd Graph Editor](https://www.yworks.com/products/yed).
 
 ## Installation Instructions
 
