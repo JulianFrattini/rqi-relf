@@ -16,6 +16,8 @@ This repository contains the following artifacts:
 
 * *data/* : folder for all data-related information
   * [columns.json](./data/columns.json) : List of relevant columns and available values per column
+* *doc/* : folder containing all additional documentation and supplementary material
+  * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guideline for coding the interview transcripts
 * *figures/* : folder for all figures
 * *src/* : folder containing all source code
   * *analytics/* : folder for all source code related to analysis
