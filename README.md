@@ -6,9 +6,9 @@ This repository contains the replication package for the case study on identifyi
 
 ## Contributors Information
 
-| Name                         | Affiliation                              | Email                             |
-| ---------------------------- | ---------------------------------------- | --------------------------------- |
-| Julian Frattini              | Blekinge Institute of Technology, Sweden | julian.frattini@bth.se            |
+| Name  | Affiliation | Email |
+|---|---|---|
+| Julian Frattini | Blekinge Institute of Technology, Sweden | julian.frattini@bth.se |
 
 ## Description of the Artifacts
 
@@ -16,6 +16,8 @@ This repository contains the following artifacts:
 
 * *data/* : folder for all data-related information
   * [columns.json](./data/columns.json) : List of relevant columns and available values per column
+  * [data-description.md](./data/data-description.md) : further explanation of the data (i.e., sheets, values, etc.)
+  * *interview-data.xlsx* : Excel sheet containing both the original and overlap codes assigned to the extracted interview statements
 * *doc/* : folder containing all additional documentation and supplementary material
   * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guideline for coding the interview transcripts
 * *figures/* : folder for all figures
@@ -32,7 +34,7 @@ This repository contains the following artifacts:
   * [exploration.ipynb](./src/exploration.ipynb) : notebook to further explore the data set
   * [requirements.txt](./src/requirements.txt) : list of python libraries required to execute the source code
 
-The artifact does not contain verbatim interview or issue report data due to privacy reasons.
+This repository does not contain verbatim interview or issue data for privacy reasons.
 
 ## System Requirements
 
