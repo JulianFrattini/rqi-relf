@@ -18,6 +18,7 @@ This repository contains the following artifacts:
   * [columns.json](./data/columns.json) : List of relevant columns and available values per column
   * [data-description.md](./data/data-description.md) : further explanation of the data (i.e., sheets, values, etc.)
   * *interview-data.xlsx* : Excel sheet containing both the original and overlap codes assigned to the extracted interview statements
+  * *issue-data.xlsx* : Excel sheet containing the codes assigned to issues
 * *doc/* : folder containing all additional documentation and supplementary material
   * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guideline for coding the interview transcripts
   * [Visual Aid](./doc/Visual%20Aid.pdf) : Visual aid used during the interview to illustrate the RQT \[1\]
