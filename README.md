@@ -20,6 +20,7 @@ This repository contains the following artifacts:
   * *interview-data.xlsx* : Excel sheet containing both the original and overlap codes assigned to the extracted interview statements
 * *doc/* : folder containing all additional documentation and supplementary material
   * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guideline for coding the interview transcripts
+  * [Visual Aid](./doc/Visual%20Aid.pdf) : Visual aid used during the interview to illustrate the RQT \[1\]
 * *figures/* : folder for all figures
   * *graphml/* : figures in editable `.graphml` format
     * *activity-model.graphml* : tree of activities and attributes
