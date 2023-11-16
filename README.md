@@ -15,13 +15,15 @@ This repository contains the replication package for the case study on identifyi
 This repository contains the following artifacts:
 
 * *data/* : folder for all data-related information
-  * [columns.json](./data/columns.json) : List of relevant columns and available values per column
+  * [columns.json](./data/columns.json) : list of relevant columns and available values per column
   * [data-description.md](./data/data-description.md) : further explanation of the data (i.e., sheets, values, etc.)
   * *interview-data.xlsx* : Excel sheet containing both the original and overlap codes assigned to the extracted interview statements
   * *issue-data.xlsx* : Excel sheet containing the codes assigned to issues
 * *doc/* : folder containing all additional documentation and supplementary material
-  * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guideline for coding the interview transcripts
-  * [Visual Aid](./doc/Visual%20Aid.pdf) : Visual aid used during the interview to illustrate the RQT \[1\]
+  * [Interview Coding Guideline](./doc/Interview%20Coding%20Guideline.pdf) : guidelines for coding the interview transcripts
+  * [Interview Protocol](./doc/Interview%20Protocol.pdf) : protocol that guided the execution of the interviews
+  * [Issue Coding Guidelines](./doc/Issue%20Coding%20Guideline.pdf) : guidelines for coding the issues
+  * [Visual Aid](./doc/Visual%20Aid.pdf) : visual aid used during the interview to illustrate the RQT \[1\]
 * *figures/* : folder for all figures
   * *graphml/* : figures in editable `.graphml` format
     * *activity-model.graphml* : tree of activities and attributes
