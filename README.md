@@ -33,6 +33,7 @@ This repository contains the following artifacts:
   * *analytics/* : folder for all source code related to analysis
     * [evaluation.ipynb](./src/analytics/evaluation.ipynb) : notebook to filter and aggregate the data to themes
     * [interrater-agreement](./src/analytics/interrater-agreement.ipynb) : notebook to calculate the agreement between two independent raters coding the interview data
+    * [results.md](./src/analytics/results.md) : summary of the interview code results
   * [exploration.ipynb](./src/exploration.ipynb) : notebook to further explore the data set
   * [requirements.txt](./src/requirements.txt) : list of python libraries required to execute the source code
 

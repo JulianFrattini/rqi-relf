@@ -45,6 +45,6 @@ The issue data (`issue-data.xlsx`) contains the codes applied to the statements 
 
 - *Data*: Codes applied to the issue statements by the author
 - *Statistics*: Number of applied quality factor codes
-- *Impact*: Number of cooccurrences between quality factor codes and activity/attribute code pairs
+- *Impact*: Number of cooccurrences between quality factor codes and activity/attribute code pairs (i.e., the results presented in the publication)
 
 The columns of the Data sheet resemble the ones presented in the [interview data section](#columns).
