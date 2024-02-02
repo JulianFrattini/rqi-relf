@@ -2,6 +2,7 @@
 
 [![GitHub](https://img.shields.io/github/license/JulianFrattini/rqi-relf)](./LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10149475.svg)](https://doi.org/10.5281/zenodo.10149475)
+[![arXiv](https://img.shields.io/badge/arXiv-2402.00594-b31b1b.svg)](https://arxiv.org/abs/2402.00594)
 
 This repository contains the replication package for the case study on identifying relevant factors of requirements quality. In this study, we used the requirements quality theory \[1\] as a frame to identify which quality and context factors \[2\] are relevant to the specific company case. This repository contains the (anonymized) data sets, scripts to analyze them, and figures to visualize them.
 
