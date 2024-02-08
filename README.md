@@ -6,11 +6,23 @@
 
 This repository contains the replication package for the case study on identifying relevant factors of requirements quality. In this study, we used the requirements quality theory \[1\] as a frame to identify which quality and context factors \[2\] are relevant to the specific company case. This repository contains the (anonymized) data sets, scripts to analyze them, and figures to visualize them.
 
-## Contributors Information
+## Contributors and Article Information
 
 | Name  | Affiliation | Email |
 |---|---|---|
 | Julian Frattini | Blekinge Institute of Technology, Sweden | julian.frattini@bth.se |
+
+Cite this work as follows: *Frattini, J. (2024). Identifying relevant Factors of Requirements Quality: an industrial Case Study. In Requirements Engineering: Foundation for Software Quality: 30th International Working Conference, REFSQ 2024, Winterthur, Switzerland, April 8-11, 2024, Proceedings 30. Springer International Publishing.*
+
+```bibtex
+@inproceedings{frattini2024identifying,
+  title={Identifying relevant Factors of Requirements Quality: an industrial Case Study},
+  author={Frattini, Julian},
+  booktitle={Requirements Engineering: Foundation for Software Quality: 30th International Working Conference, REFSQ 2024, Winterthur, Switzerland, April 8--11, 2024, Proceedings 30},
+  year={2024},
+  organization={Springer}
+}
+```
 
 ## Description of the Artifacts
 
